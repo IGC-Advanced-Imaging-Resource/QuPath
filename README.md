@@ -1,5 +1,5 @@
 # QuPath
-This repository contains QuPath Scripts written for users of the IGMM AIR facility.
+This repository contains QuPath Scripts written for users of the IGC AIR facility.
 
 Keep reading for some help regarding using the scripts.
 
